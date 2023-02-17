@@ -13,7 +13,7 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [GMT](https://discord.gg/gmtuk)(CMG Inspired Fragging Server)
+- [GMT](https://discord.gg/gmtuk) (CMG Inspired Fragging Server)
 
 <h2 align="center">past projects</h2>
 
