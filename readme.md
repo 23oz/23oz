@@ -18,9 +18,9 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
-- [GBN] (CMG Inspired Fragging Server)
-- [CX] (CMG Inspired Fragging Server)
-- [ERP] (CMG Inspired Fragging Server)
+- [GBN](discord.io/GBNUK) *(CMG Inspired Fragging Server)*
+- [CX] *(CMG Inspired Fragging Server)*
+- [ERP] *(CMG Inspired Fragging Server)*
 
 <h2 align="center">stats</h2>
 
