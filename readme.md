@@ -19,8 +19,8 @@
 
 (Newest -> Oldest)
 - [GBN](discord.io/GBNUK) *(British/Semi-RP Fragging Server)*
-- [CX](discord.gg/cxuk) *(CMG Inspired Fragging Server)*
-- [ERP](discord.gg/erpuk) *(CMG Inspired Fragging Server)*
+- [CX](discord.gg/cxuk) *(British/Semi-RP Fragging Server)*
+- [ERP](discord.gg/erpuk) *(British/Semi-RP Fragging Server)*
 
 <h2 align="center">stats</h2>
 
