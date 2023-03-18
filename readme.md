@@ -13,12 +13,12 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [GMT](https://discord.gg/gmtuk) (CMG Inspired Fragging Server)
+- [GMT](https://discord.gg/gmtuk) (British/Semi-RP Fragging Server)
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
-- [GBN](discord.io/GBNUK) *(CMG Inspired Fragging Server)*
+- [GBN](discord.io/GBNUK) *(British/Semi-RP Fragging Server)*
 - [CX](discord.gg/cxuk) *(CMG Inspired Fragging Server)*
 - [ERP](discord.gg/erpuk) *(CMG Inspired Fragging Server)*
 
