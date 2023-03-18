@@ -19,8 +19,8 @@
 
 (Newest -> Oldest)
 - [GBN](discord.io/GBNUK) *(CMG Inspired Fragging Server)*
-- CX *(CMG Inspired Fragging Server)*
-- ERP *(CMG Inspired Fragging Server)*
+- [CX](discord.gg/cxuk) *(CMG Inspired Fragging Server)*
+- [ERP](discord.gg/erpuk) *(CMG Inspired Fragging Server)*
 
 <h2 align="center">stats</h2>
 
