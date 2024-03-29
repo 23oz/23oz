@@ -1,14 +1,14 @@
-<h1>barnsy</h1>
+<h1>23oz</h1>
 
-- barnsy
+- 23oz
 - 16
 - college student
 - united kingdom
 
 <p align="center">
-<a href="https://twitter.com/barnsyuk_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
- <a href="https://twitch.tv/barnsyuk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
-<a href="https://www.youtube.com/@barnsy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
+<a href="https://twitter.com/23oz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
+ <a href="https://twitch.tv/23oz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
+<a href="https://www.youtube.com/@23oz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
 </p>
 
 <h2 align="center">langs</h2>
@@ -32,6 +32,6 @@
 
 <h2 align="center">stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barnsyy&count_private=true&show_icons=true&theme=dracula)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barnsyy&" alt="barnsyy" /></p>
-<img src="https://komarev.com/ghpvc/?username=barnsyy&color=lightgray" alt="fax" width="" height="">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=23oz&count_private=true&show_icons=true&theme=dracula)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=23oz&" alt="23oz" /></p>
+<img src="https://komarev.com/ghpvc/?username=23oz&color=lightgray" alt="fax" width="" height="">
